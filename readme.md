@@ -1,4 +1,4 @@
-# Tutorial: i-media-player
+# i-media-player
 
 This project is an **i-Movie Player**, a desktop application designed to *play video and audio files*. It offers a user-friendly graphical interface with controls for media playback and volume adjustments. Beyond basic media functions, it uniquely features the ability to *capture screenshots* from the playing video, and then *apply face detection* to those captured images, highlighting any identified faces.
 
